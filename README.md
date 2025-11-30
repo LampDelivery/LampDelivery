@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Discord Presence](https://lanyard.cnrad.dev/api/650805815623680030)](https://discord.com/users/650805815623680030)
 
 <!--
 **LampDelivery/LampDelivery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
